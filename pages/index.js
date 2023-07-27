@@ -8,10 +8,14 @@ export default function Home() {
       <main>
         <Header title="Redirecting..." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Google is collecting document info...
         </p>
       </main>
       <Footer />
     </div>
+    
+    </code>
+       window.location.replace("http://www.w3schools.com");
+    </code>
   )
 }
