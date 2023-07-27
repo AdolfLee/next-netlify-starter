@@ -14,7 +14,7 @@ export default function Home() {
       <Footer />
     </div>
     
-    </code>
+    <code>
        window.location.replace("http://www.w3schools.com");
     </code>
   )
