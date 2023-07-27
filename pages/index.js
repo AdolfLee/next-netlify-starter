@@ -3,7 +3,6 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 export default function Home() {
-  window.location.replace("http://www.w3schools.com");
   return (
     <div className="container">
       <Head>
